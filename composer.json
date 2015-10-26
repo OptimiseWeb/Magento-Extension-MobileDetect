@@ -1,0 +1,17 @@
+{
+  "name": "vkathirvel/mobile-detect",
+  "license": "MIT",
+  "type": "magento-module",
+  "authors": [
+    {
+      "name": "Pascal Querner",
+      "email": "pascal.querner@mscg.de",
+      "homepage": "http://www.mscg.de",
+      "role": "Developer"
+    }
+  ],
+  "description": "MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web's Magento extension allows using Mobile Detect's functions from within Magento.",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}

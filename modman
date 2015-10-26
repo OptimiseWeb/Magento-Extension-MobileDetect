@@ -1,0 +1,6 @@
+app/code/community/Optimiseweb/MobileDetect/doc/Readme.html app/code/community/Optimiseweb/MobileDetect/doc/Readme.html
+app/code/community/Optimiseweb/MobileDetect/etc/config.xml app/code/community/Optimiseweb/MobileDetect/etc/config.xml
+app/code/community/Optimiseweb/MobileDetect/Helper/Data.php app/code/community/Optimiseweb/MobileDetect/Helper/Data.php
+app/code/community/Optimiseweb/MobileDetect/Library/Mobile_Detect.php app/code/community/Optimiseweb/MobileDetect/Library/Mobile_Detect.php
+app/etc/modules/Optimiseweb_MobileDetect.xml app/etc/modules/Optimiseweb_MobileDetect.xml
+app/locale/en_US/Optimiseweb_MobileDetect.csv app/locale/en_US/Optimiseweb_MobileDetect.csv
